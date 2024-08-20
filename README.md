@@ -6,6 +6,9 @@ Lenders face challenges in effectively predicting which individuals are at highe
 ## Dataset
 This dataset contains information on loans made through the Lending Club platform, a peer-to-peer lending company that connects borrowers with investors. The dataset includes data on loans issued between 2007 and 2018.
 
+## Link to Dataset
+https://drive.google.com/file/d/1pUJqIZihZPClEx5wE8PXga5lqsHYVCOo/view?usp=drive_link
+
 The goal of this dataset is to predict whether a borrower will fully pay off their loan or default.
 
 ### Dataset Columns
